@@ -1,0 +1,18 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+streamlit
+
+# Search Tool
+tavily-python
+
+# Web-Scraping
+beautifulsoup4
+readability-lxml
+trafilatura
+requests
+lxml
+
+# Environment-Variables
+python-dotenv
