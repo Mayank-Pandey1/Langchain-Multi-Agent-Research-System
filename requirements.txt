@@ -16,3 +16,5 @@ lxml
 
 # Environment-Variables
 python-dotenv
+
+rich
