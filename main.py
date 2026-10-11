@@ -1,4 +1,4 @@
-from src.tools.tools import web_search, scrape_url
+from src.pipelines.pipeline import run_research_pipeline
 
-results = scrape_url("https://aiweekly.co")
-print(results)
+topic = "The impact of AI on Job Market in 2026"
+state = run_research_pipeline(topic)
